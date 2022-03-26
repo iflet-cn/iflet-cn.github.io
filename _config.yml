@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
-
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+title: iflet.cn
+description: 持续为高效工作提供技术支持
+show_downloads: "true"
