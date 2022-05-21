@@ -26,7 +26,7 @@ description: 持续为高效工作提供技术支持
 
 > 支持自定义站点导航、文章、文档快链，云存储，云图。 
 
-访问<a href="https://hixnav.github.io">海芯导航</a>官网，或者访问<a href="https://github.com/hixnav/hixnav">GitHub</a>查看项目
+访问<a href="https://www.hixnav.xyz">海芯导航</a>官网，或者访问<a href="https://github.com/hixnav/hixnav">GitHub</a>查看项目
 
 
 
