@@ -41,7 +41,7 @@ description: 持续为高效工作提供技术支持
 
 
 
-##### 邮箱：:email: [kefu@iflet.cn](mailto:kefu@iflet.cn)
+##### 邮箱：[kefu@iflet.cn](mailto:kefu@iflet.cn)
 
 ##### 微信：
 
